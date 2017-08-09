@@ -1,3 +1,4 @@
 [submodule "numproof"]
 	path = numproof
 	url = git@github.com:bclarkx2/numproof.git
+    branch = master
