@@ -2,3 +2,6 @@
 	path = numproof
 	url = git@github.com:bclarkx2/numproof.git
     branch = master
+[submodule "math_shortcuts"]
+	path = math_shortcuts
+	url = git@github.com:bclarkx2/math_shortcuts.git
