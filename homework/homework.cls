@@ -79,6 +79,20 @@
 }{%
 }
 
+\newenvironment{problem*}[1]{%
+  \vspace{10ex}
+  \Needspace*{3\baselineskip}
+  \par\noindent\textbf{#1}
+}{%
+}
+
+\newenvironment{problem+}[3]{%
+  \vspace{10ex}
+  \Needspace*{3\baselineskip}
+  \par\noindent\textbf{Problem #1: (#2, #3)}
+}{%
+}
+
 \newenvironment{lonelyproblem}[1]{%
   \vspace{10ex}
   \Needspace*{50\baselineskip}
