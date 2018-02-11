@@ -8,3 +8,6 @@
 [submodule "ieee"]
 	path = ieee
 	url = git@github.com:bclarkx2/ieee.git
+[submodule "cstyle"]
+	path = cstyle
+	url = git@github.com:bclarkx2/cstyle.git
