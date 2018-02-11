@@ -5,3 +5,6 @@
 [submodule "math_shortcuts"]
 	path = math_shortcuts
 	url = git@github.com:bclarkx2/math_shortcuts.git
+[submodule "ieee"]
+	path = ieee
+	url = git@github.com:bclarkx2/ieee.git
