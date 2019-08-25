@@ -11,3 +11,6 @@
 [submodule "cstyle"]
 	path = cstyle
 	url = git@github.com:bclarkx2/cstyle.git
+[submodule "Awesome-CV"]
+	path = Awesome-CV
+	url = https://github.com/posquit0/Awesome-CV
